@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Olá, eu sou o Daniel Cristian!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=330000&height=120&section=header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=header"/> 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
