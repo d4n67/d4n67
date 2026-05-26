@@ -16,7 +16,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindo+ao+meu+Github!;Me+chamo+Daniel+Friedrich;E+sou+desenvolvedor+Front-End!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Bem+vindo+ao+meu+Github!;Me+chamo+Daniel+Cristian;)](https://git.io/typing-svg)
 <!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-friedrich-de-moura/)
