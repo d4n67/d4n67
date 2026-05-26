@@ -8,7 +8,7 @@
 
 <br />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/> ](https://capsule-render.vercel.app/api?type=waving&height=300&color=880808&textBg=false)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#880808&height=120&section=header"/> 
 <div align="center">
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4n67&theme=dark"/>
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d4n67&theme=dark&exclude=HTML,CSS,Portugol"/>
