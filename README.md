@@ -1,50 +1,64 @@
-<!--
-## Opa! Legal te ver por aqui ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-## 💫 Sobre mim:
-- Me chamo Daniel Cristian, tenho 22 anos e sou estudante de Sistemas de Informaçãp.
-- Possuo familiaridade com Java, mySQL, MongoDB e react.js .
- Atualmente estou me aperfeiçoando no Front-End e Back-end em react native, C# e ASP.NET.
--->
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Olá, eu sou o Daniel Cristian!
 
-<br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=330000&height=120&section=header"/> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#880808&height=120&section=header"/> 
 <div align="center">
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4n67&theme=dark"/>
-  <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d4n67&theme=dark&exclude=HTML,CSS,Portugol"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Full-Stack;Focado+em+C%23+%2B+React+Native" alt="Typing SVG" />
+  </a>
+</div>
+
+## 💫 Sobre Mim
+- 🎓 Estudante de **Sistemas de Informação** (22 anos).
+- 🛠️ Possuo familiaridade com **Java, MySQL, MongoDB e React.js**.
+- 🚀 Atualmente me aperfeiçoando no ecossistema Front-End e Back-End com **React Native, C# e ASP.NET**.
+
+---
+
+## 🌐 Redes Sociais & Contato
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-friedrich-de-moura/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/danielfriedrich_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,dotnet,mysql,mongodb,discord&theme=dark" />
 </div>
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Bem+vindo!+;Me+chamo+Daniel+Cristian!)](https://git.io/typing-svg)
-
-<!--
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-friedrich-de-moura/)
-[![Instagram](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.instagram.com/danielfriedrich_/)
--->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,dotnet,discord,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=c-sharp&logoColor=red" />
+  <img src="https://img.shields.io/badge/-.NET-000000?style=flat-square&logo=.net&logoColor=red" />
+  <img src="https://img.shields.io/badge/-React_Native-000000?style=flat-square&logo=react&logoColor=red" />
+  <img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=red" />
+  <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=red" />
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=red" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4n67&theme=dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d4n67&theme=dark&exclude=HTML,CSS,Portugol"/>
 </div>
 
 <br />
-<!--
-![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
--->
 
-<!--
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
--->
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=d4n67&show_icons=true&theme=dark&include_all_commits=true&count_private=true&color_title=ff0000&color_icon=ff0000" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=d4n67&theme=dark&fire=ff0000&ring=ff0000" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Github+Stats)](https://git.io/typing-svg)
-<p>
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=d4n67&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img align="center" width="50%" src="https://streak-stats.demolab.com/?user=d4n67&theme=dark" />
-</p>
+<br />
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=matheuspergoli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=330000&height=80&section=footer"/>
