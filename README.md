@@ -8,7 +8,7 @@
 
 <br />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/> ](https://capsule-render.vercel.app/api?type=waving&height=300&color=880808&textBg=false)
 <div align="center">
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4n67&theme=dark"/>
   <img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d4n67&theme=dark&exclude=HTML,CSS,Portugol"/>
@@ -16,7 +16,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Bem+vindo!+;Me+chamo+Daniel+Cristian!)](https://git.io/typing-svg)<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Bem+vindo!+;Me+chamo+Daniel+Cristian!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Bem+vindo!+;Me+chamo+Daniel+Cristian!)](https://git.io/typing-svg)
 <!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-friedrich-de-moura/)
